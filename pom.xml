@@ -15,5 +15,7 @@
         <module>store-order</module>
         <module>store-product</module>
         <module>store-ware</module>
+        <module>store-common</module>
+        <module>renren-fast</module>
     </modules>
 </project>
